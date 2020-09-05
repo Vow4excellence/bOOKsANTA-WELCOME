@@ -1,0 +1,11 @@
+for updating firebase 
+ npm install firebase@7.9.0
+
+correct the name of config.js
+
+copy screens folder and App.js
+
+then on expo run instruction
+
+expo start
+
